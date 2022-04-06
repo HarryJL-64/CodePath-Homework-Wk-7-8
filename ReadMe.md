@@ -7,31 +7,31 @@ Time spent: **10** hours spent in total
 ## Pentesting Report
 
 ### 1. (Required) Vulnerability WordPress Plugin Site Import 1.0.1 - Local/Remote File Inclusion - EDB-ID 39558
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
+  - [X] Summary: 
+    - Vulnerability types: Local/Remote File Inclusion
+    - Tested in version: WordPress 4.2
     - Fixed in version: 
   - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
+  - [X] Steps to recreate: installed vulnerability app
+  - [X] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 ### 2. (Required) Vulnerability WordPress Plugin HB Audio Gallery Lite 1.0.0 - Arbitrary File Download - EDB-ID 39589
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
+  - [X] Summary: 
+    - Vulnerability types: Arbitrary File Download
+    - Tested in version: WordPress 4.2
     - Fixed in version: 
   - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
+  - [X] Steps to recreate: installed vulnerability app
+  - [X] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 ### 3. (Required) Vulnerability WordPress Plugin DB Backup - Arbitrary File Download - EDB-ID 35378
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
+  - [X] Summary: 
+    - Vulnerability types: Arbitrary File Download
+    - Tested in version:  WordPress 4.2
     - Fixed in version: 
   - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
+  - [X] Steps to recreate: installed vulnerability app
+  - [X] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 ### 4. (Optional) Vulnerability Name or ID
   - [ ] Summary: 
